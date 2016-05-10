@@ -4,7 +4,5 @@ public interface Encryption {
 	public String decrypt();
 	
 	//testing!!
-	//another github test!
-	
 	
 }
