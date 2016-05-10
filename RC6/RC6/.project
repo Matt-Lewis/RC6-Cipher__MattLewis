@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RC6</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Encryption.java</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/src/Encryption.java</locationURI>
+		</link>
+		<link>
+			<name>src/Recieve.java</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/src/Recieve.java</locationURI>
+		</link>
+		<link>
+			<name>src/Transmit.java</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/src/Transmit.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
